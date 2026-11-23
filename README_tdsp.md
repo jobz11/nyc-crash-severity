@@ -19,8 +19,6 @@ NYC Open Data, [Motor Vehicle Collisions: Crashes](https://data.cityofnewyork.us
 
 ## Method
 
-Milestones 1 to 4 follow the NSDC notebook template. Milestone 5 is my own research question.
-
 1. Loaded the CSV and checked missing values. About 10.6% of crashes have no coordinates.
 2. Charted the top contributing factors and vehicle types. Found that the same vehicle type appears under several spellings, such as "Taxi" and "TAXI".
 3. Counted crashes by hour of day, by month (including the 2020 COVID drop) and by borough. Decomposed the daily series into trend, seasonal and residual parts.
