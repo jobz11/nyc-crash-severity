@@ -55,7 +55,3 @@ jupyter notebook
 ```
 
 Download the CSV from NYC Open Data. The notebook mounts Google Drive and reads `Motor_Vehicle_Collisions_-_Crashes_20260611.csv` from `MyDrive`, so change the path in the read cell to match where you saved it.
-
-## Author
-
-[YOUR NAME] | Computational Modeling & Data Analytics, Virginia Tech
