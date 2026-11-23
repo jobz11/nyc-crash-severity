@@ -41,7 +41,7 @@ NYC Open Data, [Motor Vehicle Collisions: Crashes](https://data.cityofnewyork.us
 
 ## Files
 
-- `Explorer_TDSP_Oluwajoba_Idowu.ipynb`: the full notebook, Milestones 1 to 5, built on the NSDC Explorer template.
+- `Explorer_TDSP_Oluwajoba_Idowu.ipynb`: the full notebook, Milestones 1 to 5.
 - `heatmap.png`: the Milestone 5 figure.
 - `poster.pdf`: the Milestone 6 poster.
 
