@@ -1,6 +1,6 @@
 # NYC Crash Severity by Weekday and Hour
 
-Descriptive analysis of NYC motor vehicle collisions for the Transportation Data Science Project (NEBDHub and the National Student Data Corps). No model was built.
+Descriptive analysis of NYC motor vehicle collisions for the Transportation Data Science Project (NEBDHub and the National Student Data Corps).
 
 **Poster:** `poster.pdf`
 
